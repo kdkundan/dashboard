@@ -1,0 +1,22 @@
+.cont {
+  display: flex;
+  width: 100%;
+}
+
+.appoint-cont {
+  flex: 0.8;
+}
+
+.list-cont {
+  flex: 0.2;
+}
+
+.appoint-title-cont {
+  text-align: center;
+  width: 100%;
+}
+
+.list-title-cont {
+  text-align: center;
+  width: 100%;
+}
